@@ -1,0 +1,6 @@
+﻿  HikingSimulator.cpp
+C:\Users\simon\Desktop\semProVR\source\HikingSimulator.cpp(61,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\simon\Desktop\semProVR\source\HikingSimulator.cpp(62,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  semProVR.vcxproj -> C:\Users\simon\Desktop\semProVR\x64\Debug\semProVR.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
